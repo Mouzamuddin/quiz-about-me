@@ -17,7 +17,7 @@ var questions =
   answer:"two",
   },
   {
-  question : "how many siblings does Mouzam have??(numeric ans) ",
+  question : "how many siblings does Mouzam have??(numeric answe only) ",
   answer : "5",
   }
 ]
