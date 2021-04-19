@@ -18,7 +18,7 @@ var questions =
   },
   {
   question : "how many siblings does Mouzam have??(numeric answe only) ",
-  answer : "5",
+  answer : "4",
   }
 ]
 function quiz(question,answer)
