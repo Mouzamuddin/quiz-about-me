@@ -19,6 +19,14 @@ var questions =
   {
   question : "how many siblings does Mouzam have??(numeric answe only) ",
   answer : "4",
+  },
+  {
+  question : "is mouzam the oldest among his siblings  ",
+  answer : "no",
+  },
+  {
+  question : "what is mouzam's favourite color ",
+  answer : "black",
   }
 ]
 function quiz(question,answer)
